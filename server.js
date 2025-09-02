@@ -51,6 +51,43 @@ app.get('/api/messages', (req, res) => {
   res.json(list);
 });
 
+// API: 按日期范围获取历史消息
+app.get('/api/messages/range', (req, res) => {
+  const { startDate, endDate, limit = 100 } = req.query;
+  
+  if (!startDate || !endDate) {
+    return res.status(400).json({ error: '请提供开始和结束日期' });
+  }
+  
+  try {
+    const start = new Date(startDate);
+    const end = new Date(endDate);
+    end.setHours(23, 59, 59, 999); // 设置为当天结束时间
+    
+    if (start > end) {
+      return res.status(400).json({ error: '开始日期不能大于结束日期' });
+    }
+    
+    let list = messages.filter(m => {
+      const timestamp = new Date(m.timestamp);
+      return timestamp >= start && timestamp <= end;
+    });
+    
+    // 按时间倒序排列
+    list = [...list].sort((a,b) => b.timestamp - a.timestamp);
+    
+    // 限制返回数量
+    if (limit) {
+      list = list.slice(0, Number(limit));
+    }
+    
+    res.json(list);
+  } catch (error) {
+    console.error('日期范围查询错误:', error);
+    res.status(500).json({ error: '查询失败' });
+  }
+});
+
 // MQTT 连接配置
 const MQTT_BROKER_URL = 'mqtt://Mqtt.dxiot.liju.cc';
 // 生成随机 clientId，避免与现场设备冲突
