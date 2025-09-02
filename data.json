@@ -1,0 +1,379 @@
+[
+  {
+    "timestamp": 1756800959018,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  40,\n    \"3_temp\":  39,\n    \"2_temp\":  39,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801078983,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  40,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801198963,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  40,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801319001,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  40,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801438995,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  40,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801558965,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  39,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801678993,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": "{\n  \"device_id\": \"tuihuolu\",\n  \"data\": {\n    \"work3_code\": 552489,\n    \"work2_code\": 256843,\n    \"work1_code\": 256478,\n    \"gonyi_temp\": 250,\n    \"4_output\": 0,\n    \"3_output\": 0,\n    \"2_output\": 0,\n    \"1_output\": 0,\n    \"4_temp\":  39,\n    \"3_temp\":  39,\n    \"2_temp\":  38,\n    \"1_temp\":  37\n  }\n}"
+  },
+  {
+    "timestamp": 1756801798988,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756801918996,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802038991,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802158947,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802278932,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802399000,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802518931,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802639046,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802758946,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802878934,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756802998992,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 39,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803118971,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803238922,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803358974,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803478934,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803598921,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 37
+    }
+  },
+  {
+    "timestamp": 1756803718985,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "work3_code": 552489,
+      "work2_code": 256843,
+      "work1_code": 256478,
+      "gonyi_temp": 250,
+      "4_output": 0,
+      "3_output": 0,
+      "2_output": 0,
+      "1_output": 0,
+      "4_temp": 39,
+      "3_temp": 38,
+      "2_temp": 38,
+      "1_temp": 36
+    }
+  },
+  {
+    "timestamp": 1756804621336,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "3bh": 552489,
+      "2bh": 256843,
+      "1bh": 256478,
+      "0wd": 250,
+      "4gl": 0,
+      "3gl": 0,
+      "2gl": 0,
+      "1gl": 0,
+      "4wd": 38,
+      "3wd": 37,
+      "2wd": 37,
+      "1wd": 36
+    }
+  },
+  {
+    "timestamp": 1756804741295,
+    "topic": "/dxiot/4q/pub/danzhan/tuihuolu",
+    "payload": {
+      "3bh": 552489,
+      "2bh": 256843,
+      "1bh": 256478,
+      "0wd": 250,
+      "4gl": 0,
+      "3gl": 0,
+      "2gl": 0,
+      "1gl": 0,
+      "4wd": 38,
+      "3wd": 37,
+      "2wd": 37,
+      "1wd": 36
+    }
+  }
+]
